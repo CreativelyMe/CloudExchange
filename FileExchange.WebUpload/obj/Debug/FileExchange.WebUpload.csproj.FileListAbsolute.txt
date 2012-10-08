@@ -27,3 +27,32 @@ c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.We
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.dll
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.pdb
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.WebUpload\bin\BlobFu.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\FileExchange.WebUpload.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\FileExchange.WebUpload.pdb
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\BlobFu.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.Core.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\EntityFramework.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\System.Web.Providers.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\EntityFramework.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.Core.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.pdb

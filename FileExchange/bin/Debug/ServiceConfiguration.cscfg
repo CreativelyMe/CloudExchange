@@ -9,16 +9,11 @@
   **********************************************************************************************
 -->
 <ServiceConfiguration serviceName="FileExchange" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*" schemaVersion="2012-05.1.7">
-  <Role name="FileExchange.Worker">
-    <Instances count="1" />
-    <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-    </ConfigurationSettings>
-  </Role>
   <Role name="FileExchange.WebUpload">
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=http;AccountName=ncystems;AccountKey=6QhbZHqiiNHg3TMKqxrcWbED1Sl7rXlMPBmNlhn5WCoG2CcFNgbSMd/rmRJs25O0iPp9HOUkWYMEWB26ns5DEA==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

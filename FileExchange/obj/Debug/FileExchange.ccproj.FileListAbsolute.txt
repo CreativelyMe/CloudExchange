@@ -31,3 +31,4 @@ c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange\ob
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange\obj\Debug\FileExchange.Worker\Microsoft.WindowsAzure.Diagnostics.dll
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange\obj\Debug\FileExchange.Worker\Microsoft.WindowsAzure.StorageClient.dll
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange\obj\Debug\FileExchange.WebUpload\bin\BlobFu.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange\bin\Debug\ServiceConfiguration.cscfg

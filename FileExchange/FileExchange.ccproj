@@ -45,14 +45,6 @@
       <RoleName>FileExchange.WebUpload</RoleName>
       <UpdateDiagnosticsConnectionStringOnPublish>True</UpdateDiagnosticsConnectionStringOnPublish>
     </ProjectReference>
-    <ProjectReference Include="..\FileExchange.Worker\FileExchange.Worker.csproj">
-      <Name>FileExchange.Worker</Name>
-      <Project>{05028f55-c034-49e6-9eb7-cd0449fc45c5}</Project>
-      <Private>True</Private>
-      <RoleType>Worker</RoleType>
-      <RoleName>FileExchange.Worker</RoleName>
-      <UpdateDiagnosticsConnectionStringOnPublish>True</UpdateDiagnosticsConnectionStringOnPublish>
-    </ProjectReference>
   </ItemGroup>
   <!-- Import the target files for this project template -->
   <PropertyGroup>

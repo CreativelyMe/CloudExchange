@@ -8,3 +8,13 @@ c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Wo
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.csprojResolveAssemblyReference.cache
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.dll
 c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.pdb
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.dll.config
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.pdb
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.pdb
