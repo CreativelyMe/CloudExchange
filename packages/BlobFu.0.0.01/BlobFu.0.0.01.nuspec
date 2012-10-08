@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BlobFu</id>
+    <version>0.0.01</version>
+    <title>BlobFu</title>
+    <authors>brady gaster</authors>
+    <owners>brady gaster</owners>
+    <projectUrl>https://github.com/bradygaster/BlobFu</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Fluent wrapper to simplify reading and writing files and objects to and from Windows Azure blob storage.</description>
+    <summary>A Fluent wrapper to simplify reading and writing files and objects to and from Windows Azure blob storage.</summary>
+  </metadata>
+</package>

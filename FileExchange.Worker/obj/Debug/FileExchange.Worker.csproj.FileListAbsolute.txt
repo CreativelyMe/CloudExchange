@@ -1,0 +1,10 @@
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.dll.config
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.dll
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\FileExchange.Worker.pdb
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.csprojResolveAssemblyReference.cache
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.dll
+c:\users\neil\documents\visual studio 2012\Projects\FileExchange\FileExchange.Worker\obj\Debug\FileExchange.Worker.pdb
