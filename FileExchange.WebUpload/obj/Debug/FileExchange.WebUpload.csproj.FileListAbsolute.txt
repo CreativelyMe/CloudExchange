@@ -56,3 +56,5 @@ C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\DotNetOp
 C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.csprojResolveAssemblyReference.cache
 C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.dll
 C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\obj\Debug\FileExchange.WebUpload.pdb
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Neil\Documents\GitHub\CloudExchange\FileExchange.WebUpload\bin\Microsoft.WindowsAzure.ServiceRuntime.xml
