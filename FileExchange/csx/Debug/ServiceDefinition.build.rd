@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FileExchange" generation="1" functional="0" release="0" Id="5e8ee63a-9f87-420d-90f9-9fa046989a01" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FileExchange" generation="1" functional="0" release="0" Id="53d91814-b13d-4fac-97b0-ead853491714" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="FileExchangeGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -79,9 +79,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="32266fec-a83f-4856-bcbc-0c79527dd330" ref="Microsoft.RedDog.Contract\ServiceContract\FileExchangeContract@ServiceDefinition.build">
+    <implementation Id="def23f58-c847-42d5-a0fb-9b6015d81f84" ref="Microsoft.RedDog.Contract\ServiceContract\FileExchangeContract@ServiceDefinition.build">
       <interfacereferences>
-        <interfaceReference Id="ce3ce9a0-8850-4793-8c65-7a92d3dcd394" ref="Microsoft.RedDog.Contract\Interface\FileExchange.WebUpload:Endpoint1@ServiceDefinition.build">
+        <interfaceReference Id="99363518-763b-417f-bf40-8832279c9261" ref="Microsoft.RedDog.Contract\Interface\FileExchange.WebUpload:Endpoint1@ServiceDefinition.build">
           <inPort>
             <inPortMoniker name="/FileExchange/FileExchangeGroup/FileExchange.WebUpload:Endpoint1" />
           </inPort>
