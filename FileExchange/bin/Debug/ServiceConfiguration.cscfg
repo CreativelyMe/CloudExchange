@@ -12,8 +12,7 @@
   <Role name="FileExchange.WebUpload">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=http;AccountName=ncystems;AccountKey=6QhbZHqiiNHg3TMKqxrcWbED1Sl7rXlMPBmNlhn5WCoG2CcFNgbSMd/rmRJs25O0iPp9HOUkWYMEWB26ns5DEA==" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=http;AccountName=ncsystems;AccountKey=6QhbZHqiiNHg3TMKqxrcWbED1Sl7rXlMPBmNlhn5WCoG2CcFNgbSMd/rmRJs25O0iPp9HOUkWYMEWB26ns5DEA==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

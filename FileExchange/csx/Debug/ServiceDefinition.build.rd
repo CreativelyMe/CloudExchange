@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FileExchange" generation="1" functional="0" release="0" Id="53d91814-b13d-4fac-97b0-ead853491714" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FileExchange" generation="1" functional="0" release="0" Id="cd073959-c731-4aaa-b779-bb4dcf3c99e9" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="FileExchangeGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -10,11 +10,6 @@
         </inPort>
       </componentports>
       <settings>
-        <aCS name="FileExchange.WebUpload:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="">
-          <maps>
-            <mapMoniker name="/FileExchange/FileExchangeGroup/MapFileExchange.WebUpload:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
-          </maps>
-        </aCS>
         <aCS name="FileExchange.WebUpload:StorageConnectionString" defaultValue="">
           <maps>
             <mapMoniker name="/FileExchange/FileExchangeGroup/MapFileExchange.WebUpload:StorageConnectionString" />
@@ -34,11 +29,6 @@
         </lBChannel>
       </channels>
       <maps>
-        <map name="MapFileExchange.WebUpload:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" kind="Identity">
-          <setting>
-            <aCSMoniker name="/FileExchange/FileExchangeGroup/FileExchange.WebUpload/Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
-          </setting>
-        </map>
         <map name="MapFileExchange.WebUpload:StorageConnectionString" kind="Identity">
           <setting>
             <aCSMoniker name="/FileExchange/FileExchangeGroup/FileExchange.WebUpload/StorageConnectionString" />
@@ -57,7 +47,6 @@
               <inPort name="Endpoint1" protocol="http" portRanges="8080" />
             </componentports>
             <settings>
-              <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="StorageConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;FileExchange.WebUpload&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;FileExchange.WebUpload&quot;&gt;&lt;e name=&quot;Endpoint1&quot; /&gt;&lt;/r&gt;&lt;/m&gt;" />
             </settings>
@@ -79,9 +68,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="def23f58-c847-42d5-a0fb-9b6015d81f84" ref="Microsoft.RedDog.Contract\ServiceContract\FileExchangeContract@ServiceDefinition.build">
+    <implementation Id="1b350014-c6b4-4284-9a51-35b6429e98a4" ref="Microsoft.RedDog.Contract\ServiceContract\FileExchangeContract@ServiceDefinition.build">
       <interfacereferences>
-        <interfaceReference Id="99363518-763b-417f-bf40-8832279c9261" ref="Microsoft.RedDog.Contract\Interface\FileExchange.WebUpload:Endpoint1@ServiceDefinition.build">
+        <interfaceReference Id="d77b9a25-acdc-4a36-8793-b87433e9a37f" ref="Microsoft.RedDog.Contract\Interface\FileExchange.WebUpload:Endpoint1@ServiceDefinition.build">
           <inPort>
             <inPortMoniker name="/FileExchange/FileExchangeGroup/FileExchange.WebUpload:Endpoint1" />
           </inPort>

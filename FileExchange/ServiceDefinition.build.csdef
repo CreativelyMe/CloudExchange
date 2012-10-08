@@ -20,9 +20,7 @@
     <Endpoints>
       <InputEndpoint name="Endpoint1" protocol="http" port="8080" />
     </Endpoints>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
+    <Imports></Imports>
     <ConfigurationSettings>
       <Setting name="StorageConnectionString" />
     </ConfigurationSettings>
